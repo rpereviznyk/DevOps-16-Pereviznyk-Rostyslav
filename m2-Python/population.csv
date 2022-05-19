@@ -1,0 +1,6 @@
+mac-address,hostname,ipv4,ipv6,netmask,user,full name,email,ssh private key,description host,list of apps
+00:1A:3F:F1:4C:C6,host1,null,null,255.255.124.0,rost.pereviznyk@epam.com,Rostyslav,rost@epam.com,pk.ppk,description1,"MSOFICE,WMWARE,VINRAR"
+01:4D:3F:2B:8C:A1,host2,null,null,255.255.254.0,andrew@epam.com,Andrew,andrew@epam.com,an.ppk,description2,"OPERA,VINBOX,NOTEPAD"
+9C:35:5B:5F:4C:D7,host3,null,null,255.255.192.0,tolik.killer@epam.com,Tolik,tolik@epam.com,to.ppk,description3,"PUTTY,CALCULATOR,VINBOX"
+84:B8:8D:B8:1F:8D,host4,null,null,255.255.128.0,oleh@epam.com,Oleh,oleh@epam.com,ol.ppk,description4,"OPERA,MSOFFICE,VINRAR"
+00:4D:4E:7A:B8:6B,host5,null,null,255.255.255.0,vik.tory@epam.com,Viktor,vik@epam.com,vi.ppk,description5,"CALCULATOR,NOTEPAD,PUTTY"
